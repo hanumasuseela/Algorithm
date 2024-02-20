@@ -37,3 +37,6 @@ public class BinarySearch {
         }
     }
 }
+
+//References
+    //Khan Acadamey and geeks for geeks
